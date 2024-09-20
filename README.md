@@ -1,7 +1,7 @@
 ## <b>Hello, world!</b> 👋
 
 ### 👨‍💻 <b>About me:</b>
-<p> I'm João Gabriel Grossi Solis, a Multi-plataform Software Development student and a software developer interested in Computer Vision, Artificial Intelligence and Cybersecurity. </p>
+<p> I'm João Gabriel Grossi Solis, a Multi-plataform Software Development student. </p>
 
 <br>
 
