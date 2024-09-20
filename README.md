@@ -1,28 +1,41 @@
-## João Gabriel, sou estudante de Desenvolvimento de Sistemas!
+## <b>Hello, world!</b> 👋
 
-<div>
-<a href="https://github.com/joaogabgr">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaogabgr&layout=compact&langs_count=7&theme=algolia"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaogabgr&show_icons=true&theme=algolia&include_all_commits=false&count_private=true"/>
-</div>
+### 👨‍💻 <b>About me:</b>
+<p> I'm João Gabriel Grossi Solis, a Multi-plataform Software Development student and a software developer interested in Computer Vision, Artificial Intelligence and Cybersecurity. </p>
 
+<br>
 
-<div style="display: inline_block"><br>
-  <h3>🛠️ Tecnologia:</h3>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  <img align="center" alt="MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-          
-</div>
-  
-  ##
- 
-<div>
-  <h3>📞 Contato:</h3>
-  <a href="https://instagram.com/joaogabgr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaoggbs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:/joaoggbs62@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-</div>
+### <b>📈 GitHub Statistics</b>
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=joaogabgr&show_icons=true&theme=midnight-purple)
+![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=joaogabgr&layout=compact&langs_count=8&show_icons=true&theme=midnight-purple)
+
+<br>
+
+### 🛠️<b>Languages-Frameworks-Tools</b> 🛠️
+
+[![PYTHON](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![NODEJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![JAVA](https://skillicons.dev/icons?i=java)](http://github.com/)
+[![SPRING](https://skillicons.dev/icons?i=spring)](http://github.com/)
+[![REACT](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![MYSQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![MONGO](https://skillicons.dev/icons?i=mongo)](http://github.com/)
+[![VSCODE](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![BASH](https://skillicons.dev/icons?i=bash)](https://pt.wikipedia.org/wiki/Bash)
+[![GIT](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GITHUB](https://skillicons.dev/icons?i=github)](http://github.com/)
+
+<br>
+
+### <b>📫 How to Reach Me</b>
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joaoggbs/)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:joaoggbs62@gmail.com)
+
+<br>
+
+### 👋 Thanks Visiting!
+<o>Thanks for stopping by. Feel free to explore my repositories and projects. If you find something interesting or have any suggestions, don't hesitate to get in touch. Have a nice one day!🤝</p>
