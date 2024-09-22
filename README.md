@@ -1,9 +1,12 @@
 ## <b>Hello, world!</b> 👋
 
-### 👨‍💻 <b>About me:</b>
-<p> I'm João Gabriel Grossi Solis, a Multi-plataform Software Development student. </p>
+### 👨‍💻 <b>About Me:</b>
+<p>I'm João Gabriel Grossi Solis, a student of Multi-platform Software Development. I'm passionate about technology and excited to create innovative solutions.</p>
 
 <br>
+
+### <b>🌐 Visit My Portfolio</b>
+[Click here to explore my work!](https://portifolioa-eight.vercel.app/)
 
 ### <b>📈 GitHub Statistics</b>
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=joaogabgr&show_icons=true&theme=midnight-purple)
@@ -11,8 +14,7 @@
 
 <br>
 
-### 🛠️<b>Languages-Frameworks-Tools</b> 🛠️
-
+### 🛠️<b>Languages, Frameworks, and Tools</b> 🛠️
 [![PYTHON](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![NODEJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
@@ -37,5 +39,5 @@
 
 <br>
 
-### 👋 Thanks Visiting!
-<o>Thanks for stopping by. Feel free to explore my repositories and projects. If you find something interesting or have any suggestions, don't hesitate to get in touch. Have a nice one day!🤝</p>
+### 👋 Thank You for Visiting!
+<p>Thanks for stopping by! Feel free to explore my repositories and projects. If you find something interesting or have any suggestions, don't hesitate to get in touch. Have a
