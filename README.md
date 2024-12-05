@@ -6,7 +6,7 @@
 <br>
 
 ### <b>🌐 Visit My Portfolio</b>
-[Click here to explore my work!](https://portifolioa-eight.vercel.app/)
+[Click here to explore my work!](https://www.joaogabgr.com.br/)
 
 ### <b>📈 GitHub Statistics</b>
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=joaogabgr&show_icons=true&theme=midnight-purple)
