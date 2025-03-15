@@ -1,43 +1,55 @@
-## <b>Hello, world!</b> 👋
+## <h1 align="center">Hello, World! 👋</h1>
 
-### 👨‍💻 <b>About Me:</b>
-<p>I'm João Gabriel Grossi Solis, a student of Multi-platform Software Development. I'm passionate about technology and excited to create innovative solutions.</p>
+### 🚀 About Me
 
-<br>
+🎓 I'm **João Gabriel Grossi Solis**, a passionate **Full Stack Developer** and a student of **Multi-platform Software Development** at **FATEC-SJC**. I love solving problems through technology and building innovative, scalable, and efficient software solutions.
 
-### <b>🌐 Visit My Portfolio</b>
-[Click here to explore my work!](https://www.joaogabgr.com.br/)
+💡 My expertise lies in **Java, Spring Boot, React, TypeScript, Node.js, Python, and databases like MySQL and MongoDB**. I have a solid understanding of **Clean Architecture, SOLID principles**, and **Agile (SCRUM)** methodologies.
 
-### <b>📈 GitHub Statistics</b>
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=joaogabgr&show_icons=true&theme=midnight-purple)
-![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=joaogabgr&layout=compact&langs_count=8&show_icons=true&theme=midnight-purple)
+🏆 **1st place** in the **FATEC-SJC Programming Marathon (2024)**.
 
-<br>
+🌍 I'm always eager to learn, collaborate on projects, and contribute to the open-source community.
 
-### 🛠️<b>Languages, Frameworks, and Tools</b> 🛠️
-[![PYTHON](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![NODEJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
-[![JAVA](https://skillicons.dev/icons?i=java)](http://github.com/)
-[![SPRING](https://skillicons.dev/icons?i=spring)](http://github.com/)
-[![REACT](https://skillicons.dev/icons?i=react)](https://react.dev/)
-[![MYSQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![MONGO](https://skillicons.dev/icons?i=mongo)](http://github.com/)
-[![VSCODE](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![BASH](https://skillicons.dev/icons?i=bash)](https://pt.wikipedia.org/wiki/Bash)
-[![GIT](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![GITHUB](https://skillicons.dev/icons?i=github)](http://github.com/)
+---
 
-<br>
+## 🌐 **Visit My Portfolio**
 
-### <b>📫 How to Reach Me</b>
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joaoggbs/)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:joaoggbs62@gmail.com)
+🎨 [**Click here to explore my work!**](https://www.joaogabgr.com.br/)
 
-<br>
+---
 
-### 👋 Thank You for Visiting!
-<p>Thanks for stopping by! Feel free to explore my repositories and projects. If you find something interesting or have any suggestions, don't hesitate to get in touch. Have a
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaogabgr&show_icons=true&theme=midnight-purple" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabgr&layout=compact&langs_count=8&show_icons=true&theme=midnight-purple" alt="GitHub Languages" />
+</p>
+
+---
+
+## 🛠️ **Tech Stack**
+
+### **Languages & Frameworks:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nodejs,python,mysql,mongo" />
+</p>
+
+### **Tools & Platforms:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,bash,docker,postman,linux" />
+</p>
+
+---
+
+## 📫 **Let's Connect!**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaoggbs/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:joaoggbs62@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+## 🎯 **Thank You for Visiting!**
+
+👀 Feel free to explore my repositories, fork projects, or reach out for collaborations. Let's build something amazing together! 🚀
