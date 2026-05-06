@@ -21,7 +21,7 @@
 <!-- ═════════════════════════ ABOUT ═════════════════════════ -->
 <div align="center">
 
-### 👨‍💻 Sobre mim
+<h3 align="center">👨‍💻 Sobre mim</h3>
 
 <p align="center">
   Sou desenvolvedor fullstack que entrega de ponta a ponta:<br/>
@@ -46,7 +46,7 @@
 <!-- ═════════════════════════ NÚMEROS ═════════════════════════ -->
 <div align="center">
 
-### 📊 Números de produção
+<h3 align="center">📊 Números de produção</h3>
 
 <table>
   <tr>
@@ -74,33 +74,25 @@
 <br/>
 
 <!-- ═════════════════════════ TECH STACK ═════════════════════════ -->
-<div align="center">
+<h3 align="center">🛠️ Stack</h3>
 
-### 🛠️ Stack
-
-<p align="center">
-  <strong>Frontend</strong><br/><br/>
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,html,css" alt="React, TypeScript, Vite, Tailwind, HTML, CSS" /></a>
-</p>
-
-<p align="center">
-  <strong>Backend</strong><br/><br/>
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,mongodb,postgres" alt="Node.js, Express, Python, FastAPI, Flask, MongoDB, PostgreSQL" /></a>
-</p>
-
-<p align="center">
-  <strong>DevOps · Infra · Pagamentos</strong><br/><br/>
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker,aws,gcp,firebase,linux,git,githubactions,stripe,websocket" alt="Docker, AWS, GCP Cloud Run, Firebase, Linux, Git, GitHub Actions, Stripe, WebSockets" /></a>
-</p>
-
-</div>
+<table align="center"><tr><td align="center">
+<strong>Frontend</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,html,css" alt="Frontend" />
+<br/><br/>
+<strong>Backend</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,mongodb,postgres" alt="Backend" />
+<br/><br/>
+<strong>DevOps · Infra · Pagamentos</strong><br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,firebase,linux,git,githubactions" alt="DevOps" />
+</td></tr></table>
 
 <br/>
 
 <!-- ═════════════════════════ GITHUB STATS ═════════════════════════ -->
 <div align="center">
 
-### 📈 GitHub
+<h3 align="center">📈 GitHub</h3>
 
 <a href="https://github.com/joaogabgr">
   <img src="https://streak-stats.demolab.com/?user=joaogabgr&hide_border=true&background=0A0B0D&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=A8B0BD&dates=A8B0BD&currStreakNum=F2F4F7&sideNums=F2F4F7&locale=pt_BR" height="180" alt="GitHub Streak" />
@@ -128,7 +120,7 @@
 <!-- ═════════════════════════ CONTACT ═════════════════════════ -->
 <div align="center">
 
-### 📫 Vamos conversar
+<h3 align="center">📫 Vamos conversar</h3>
 
 <p align="center">
   Se você está contratando devs fullstack que tomam conta do produto<br/>
