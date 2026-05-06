@@ -1,67 +1,152 @@
-<h1 align="center">Hello, World! 👋</h1>
+<!-- ═════════════════════════ HERO BANNER ═════════════════════════ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0B0D,100:1E40AF&height=180&section=header&text=Jo%C3%A3o%20Gabriel%20Grossi%20Solis&fontColor=F2F4F7&fontSize=38&fontAlignY=38&animation=fadeIn" width="100%" />
+
+<a href="https://www.joaogabgr.com.br/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&lines=Fullstack+Developer;Do+c%C3%B3digo+ao+mercado;Sistemas+que+rodam+em+produ%C3%A7%C3%A3o" alt="Fullstack Developer · do código ao mercado" />
+</a>
 
 <p align="center">
-  <b>João Gabriel Grossi Solis</b><br>
-  🚀 Full Stack Developer | 🧠 Problem Solver | 🎓 FATEC-SJC Student
+  <a href="https://www.joaogabgr.com.br/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-3B82F6?style=for-the-badge&logo=safari&logoColor=white" /></a>
+  <a href="mailto:joaoggbs62@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/joaoggbs/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/joaogabgr"><img src="https://img.shields.io/github/followers/joaogabgr?label=Seguir&style=for-the-badge&color=A8B0BD&labelColor=16191F&logo=github" /></a>
 </p>
 
----
+</div>
 
-### 🧑‍💻 About Me
+<br/>
 
-🎓 I'm **João Gabriel Grossi Solis**, a passionate **Full Stack Developer** and student of **Multi-platform Software Development** at **FATEC São José dos Campos**.
+<!-- ═════════════════════════ ABOUT ═════════════════════════ -->
+<div align="center">
 
-💡 I specialize in building modern, scalable, and efficient software using technologies like **Java, Spring Boot, React, TypeScript, Node.js, Python, MySQL, MongoDB**, and more.
-
-🧱 I follow **Clean Architecture**, **SOLID principles**, and work with **Agile methodologies (SCRUM)** to deliver high-quality solutions.
-
-🏆 **1st place** in the **FATEC-SJC Programming Marathon - 2024**
-
-🌱 Constantly learning, improving, and contributing to the tech community. I love building real solutions that make a difference.
-
----
-
-### 🌐 Visit My Portfolio
-
-🎨 [**joaogabgr.com.br**](https://www.joaogabgr.com.br)
-
----
-
-### 🛠 Tech Stack
-
-#### 💻 Languages & Frameworks
+### 👨‍💻 Sobre mim
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nodejs,python,mysql,mongo" alt="Tech Stack" />
+  Sou desenvolvedor fullstack que entrega de ponta a ponta:<br/>
+  do refinamento de backlog ao deploy em produção.<br/><br/>
+  Atuo em sistemas que lidam com dinheiro real, usuários reais<br/>
+  e orçamentos apertados de latência, com foco em produtos<br/>
+  que respondem a métricas, não a demos.
 </p>
-
-#### 🧰 Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,bash,docker,postman,linux" alt="Tools" />
+  🇧🇷 <strong>Caçapava-SP, Brasil</strong>
+  &nbsp;·&nbsp;
+  🎓 6º semestre <strong>DSM</strong> · FATEC SJC
+  &nbsp;·&nbsp;
+  🏆 <strong>1º lugar</strong> Maratona FATEC 2024
 </p>
 
----
+</div>
 
-### 📊 GitHub Stats
+<br/>
+
+<!-- ═════════════════════════ NÚMEROS ═════════════════════════ -->
+<div align="center">
+
+### 📊 Números de produção
+
+<table>
+  <tr>
+    <td align="center" width="170">
+      <h2>4×</h2>
+      <sub>crescimento de DAU<br/>(de &lt;50 para 200+)</sub>
+    </td>
+    <td align="center" width="170">
+      <h2>&lt;10ms</h2>
+      <sub>latência de envio<br/>de ordens via Cedro</sub>
+    </td>
+    <td align="center" width="170">
+      <h2>1º</h2>
+      <sub>Maratona FATEC-SJC<br/>2024</sub>
+    </td>
+    <td align="center" width="170">
+      <h2>50+</h2>
+      <sub>equipes na disputa<br/>da maratona</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ═════════════════════════ TECH STACK ═════════════════════════ -->
+<div align="center">
+
+### 🛠️ Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaogabgr&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogabgr&layout=compact&langs_count=8&show_icons=true&theme=midnight-purple" alt="Top Languages" />
+  <strong>Frontend</strong><br/><br/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,html,css" alt="React, TypeScript, Vite, Tailwind, HTML, CSS" /></a>
 </p>
-
----
-
-### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joaoggbs/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:joaoggbs62@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <strong>Backend</strong><br/><br/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,mongodb,postgres" alt="Node.js, Express, Python, FastAPI, Flask, MongoDB, PostgreSQL" /></a>
 </p>
 
----
+<p align="center">
+  <strong>DevOps · Infra · Pagamentos</strong><br/><br/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker,aws,gcp,firebase,linux,git,githubactions,stripe,websocket" alt="Docker, AWS, GCP Cloud Run, Firebase, Linux, Git, GitHub Actions, Stripe, WebSockets" /></a>
+</p>
 
-### 🎯 Thanks for Visiting!
+</div>
 
-> 👀 Feel free to explore my projects, fork a repo, or reach out.  
-> 🤝 Let's build something awesome together!
+<br/>
+
+<!-- ═════════════════════════ GITHUB STATS ═════════════════════════ -->
+<div align="center">
+
+### 📈 GitHub
+
+<a href="https://github.com/joaogabgr">
+  <img src="https://streak-stats.demolab.com/?user=joaogabgr&hide_border=true&background=0A0B0D&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=A8B0BD&dates=A8B0BD&currStreakNum=F2F4F7&sideNums=F2F4F7&locale=pt_BR" height="180" alt="GitHub Streak" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/joaogabgr">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaogabgr&theme=github_dark" alt="GitHub Profile Summary" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/joaogabgr">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joaogabgr&theme=github_dark" height="180" alt="Most Used Languages" />
+</a>
+<a href="https://github.com/joaogabgr">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaogabgr&theme=github_dark" height="180" alt="GitHub Stats" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ═════════════════════════ CONTACT ═════════════════════════ -->
+<div align="center">
+
+### 📫 Vamos conversar
+
+<p align="center">
+  Se você está contratando devs fullstack que tomam conta do produto<br/>
+  de ponta a ponta, ou quer trocar ideia sobre plataformas financeiras,<br/>
+  sistemas em tempo real ou produto técnico, manda mensagem.
+</p>
+
+<p align="center">
+  📧 <a href="mailto:joaoggbs62@gmail.com"><strong>joaoggbs62@gmail.com</strong></a>
+  &nbsp;·&nbsp;
+  🌐 <a href="https://www.joaogabgr.com.br/"><strong>joaogabgr.com.br</strong></a>
+</p>
+
+<br/>
+
+<em>"Construo software que roda em produção, sustenta usuários reais e responde a métricas, não a demos."</em>
+
+</div>
+
+<!-- ═════════════════════════ FOOTER WAVE ═════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,100:0A0B0D&height=80&section=footer" width="100%" />
