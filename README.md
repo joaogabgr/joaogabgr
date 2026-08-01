@@ -43,35 +43,6 @@
 
 <br/>
 
-<!-- ═════════════════════════ NÚMEROS ═════════════════════════ -->
-<div align="center">
-
-<h3 align="center">📊 Números de produção</h3>
-
-<table>
-  <tr>
-    <td align="center" width="170">
-      <h2>4×</h2>
-      <sub>crescimento de DAU<br/>(de &lt;50 para 200+)</sub>
-    </td>
-    <td align="center" width="170">
-      <h2>&lt;10ms</h2>
-      <sub>latência de envio<br/>de ordens via Cedro</sub>
-    </td>
-    <td align="center" width="170">
-      <h2>1º</h2>
-      <sub>Maratona FATEC-SJC<br/>2024</sub>
-    </td>
-    <td align="center" width="170">
-      <h2>50+</h2>
-      <sub>equipes na disputa<br/>da maratona</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
 
 <!-- ═════════════════════════ TECH STACK ═════════════════════════ -->
 <h3 align="center">🛠️ Stack</h3>
